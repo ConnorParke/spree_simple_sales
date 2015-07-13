@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SpreeSimpleSales
 ================
 
@@ -37,3 +38,6 @@ require 'spree_simple_sales/factories'
 ```
 
 Copyright (c) 2015 [name of extension creator], released under the New BSD License
+=======
+# spree_simple_sales
+>>>>>>> 4a9a0be3e42a9ad1d8642f5772ac6060cc86a343
